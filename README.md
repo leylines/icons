@@ -1,2 +1,2 @@
 # icons
-Iconset for dowsing and leylines
+Various icons
