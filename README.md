@@ -1,2 +1,2 @@
 # icons
-Iconset fpr dowsing and leylines
+Iconset for dowsing and leylines
